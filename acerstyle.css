@@ -1,0 +1,30 @@
+/*Footer*/
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+a.footer-link:hover{
+    color: #EAF6F6;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+a.footer-link{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+/*Footer ends*/
+
+/*acc Section*/
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+.checked {
+    color: orange;
+}
+/*accc Section ends*/
